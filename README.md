@@ -1,7 +1,7 @@
 # What is Telegram-Scraper?
 Telegram Scraper is an all in one fully automated tool for Telegram with which you can scrape members, past messages, new incoming messages and much more! With +43 functions, it is the ultimate marketing tool for Telegram. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
 ## Add Telegram Members from targeted groups of your choice into your own group!
-#### 43 MAIN FUNCTIONS!
+### 43 MAIN FUNCTIONS!
 
 ## GET HERE: https://rb.gy/76i7qj
 
